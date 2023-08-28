@@ -1,0 +1,27 @@
+# commands
+.alive => Bot is online.
+.send => send a message to Owner.
+.sendDev => send a message to Developer.
+/img => Download images from internet. /img KEYWORD
+/download => Download any file with link. /download LINK
+
+# Data Model Can Do =>
+{
+Give order details,
+Give our return policy,
+About international shipping,
+password resetting,
+Our payment methods,
+Latest discount details,
+Our customer support,
+Give our work hours,
+Help to unsubscribe email,
+Our privacy policy,
+Help to discard your order,
+Give feedback for us,
+Our latest promotion details,
+}
+# Other features =>
+give current time.
+Download images.
+Download any file.
